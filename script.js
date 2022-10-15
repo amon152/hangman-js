@@ -84,7 +84,7 @@ function failureState() {
   setTimeout(() => {
     backdrop.classList.add('visible');
     finalMsg.classList.add('visible');
-    msgInfo.textContent = `YOU KILLED HIM!!!. The right word is "${selectedWord}"`;
+    msgInfo.textContent = `YOU KILLED HIM!!. The right word is "${selectedWord}"`;
   }, 400);
 }
 
