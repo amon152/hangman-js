@@ -10,8 +10,9 @@ const bodyParts = document.getElementsByClassName('body-part');
 
 
 const wordList = [
-  'amon',
+  'amons',
   'alex',
+  'kariuki',
   'antony',
   'brian',
   'geofry',
