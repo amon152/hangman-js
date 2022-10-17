@@ -21,6 +21,7 @@ const wordList = [
   'kim',
   'peter',
   'edwin',
+  'kibee',
   'gracious',
   'natalie',
   'nicole',
@@ -32,6 +33,7 @@ const wordList = [
   'esther',
   'lucas',
   'me',
+
 ];
 
 
