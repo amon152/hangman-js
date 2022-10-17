@@ -18,6 +18,7 @@ const wordList = [
   'geofry',
   'amos',
   'mary',
+  'kim',
   'peter',
   'edwin',
   'gracious',
